@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background: #2C2F33;
+}
+#searchInput {
+	background-color: #2C2F33;
+	color: lightgray;
+}
+
+
+
